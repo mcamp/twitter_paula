@@ -1,1 +1,1 @@
-Logic extransion for tweets for paula's tesis
+Collect tweets data of chilean 2014 presidencial candidates for paula's tesis at
